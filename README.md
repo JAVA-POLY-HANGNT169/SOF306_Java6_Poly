@@ -1,1 +1,1 @@
-# SOF306_Java6_Poly
+# SOF306_Java6_Poly_Thymeleaf
